@@ -1,0 +1,4 @@
+# Created at 2023-03-09T18:04:29.395
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Mozaic\RestAssuredProjectDemo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
